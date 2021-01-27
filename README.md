@@ -55,4 +55,5 @@ Repository follows best practices for class/id naming conventions, indentation, 
 Repository contains multiple descriptive commit messages.
 Repository contains a high-quality readme with description and a link to a walkthrough video.
 
+#Process
 Created a main.html for my team manager, engineer, and intern.
