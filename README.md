@@ -57,3 +57,4 @@ Repository contains a high-quality readme with description and a link to a walkt
 
 #Process
 Created a main.html for my team manager, engineer, and intern.
+Created HTML for each team member
