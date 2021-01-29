@@ -59,3 +59,5 @@ Repository contains a high-quality readme with description and a link to a walkt
 Created a main.html for my team manager, engineer, and intern.
 Created HTML for each team member
 Added package.json & package-lock with required dependencies 
+Uploaded app.js with functions on how to address questions for my team and options to continue adding team members
+
